@@ -1,3 +1,3 @@
-Vehiculo {placa = "HFG 848", entrada = 2024-05-23 02:06:05.5770648 UTC, salida = Nothing}
-Vehiculo {placa = "FHR 234", entrada = 2024-05-23 02:05:59.8857728 UTC, salida = Nothing}
-Vehiculo {placa = "HJF 192", entrada = 2024-05-23 01:53:26.1384508 UTC, salida = Nothing}
+Vehiculo {placa = "ESD 295", entrada = 2024-05-23 03:39:14.4588893 UTC, salida = Just 2024-05-23 03:39:21.3490458 UTC}
+Vehiculo {placa = "YFD 285", entrada = 2024-05-23 03:39:07.9759439 UTC, salida = Nothing}
+Vehiculo {placa = "HGD 653", entrada = 2024-05-23 03:39:04.217528 UTC, salida = Nothing}
