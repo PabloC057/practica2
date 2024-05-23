@@ -1,0 +1,3 @@
+Vehiculo {placa = "HFG 848", entrada = 2024-05-23 02:06:05.5770648 UTC, salida = Nothing}
+Vehiculo {placa = "FHR 234", entrada = 2024-05-23 02:05:59.8857728 UTC, salida = Nothing}
+Vehiculo {placa = "HJF 192", entrada = 2024-05-23 01:53:26.1384508 UTC, salida = Nothing}
